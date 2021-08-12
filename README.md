@@ -1,2 +1,2 @@
 # PRJ-site
-Esta é uma Landing Page um pequeno projeto do meu curso de front end que mostra na pratica meus conhecimentos em desenvolvimento front end.
+Este é o projeto de um site do meu curso de front end que mostra na prática meus conhecimentos nessa área do desenvolvimento.
